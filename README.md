@@ -25,3 +25,9 @@ Deletar stash clear
 Stash de um ou mais arquivos específicos:
 git stash push -m "Alterações em arquivos da home" index.html style.css script.js
 git stash push -m "Stash só dos arquivos CSS e JS" *.css *.js
+
+
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
